@@ -8,7 +8,7 @@ This is a proof of an idea, built in an afternoon. It is not a product design.
 
 ## How to view it
 
-Open the page, type the passphrase you were given, then choose:
+Open https://sergii-nosachenko.github.io/morning-line-demo/, type the passphrase you were given, then choose:
 
 - **Play recorded**: a real run, saved with its timings and costs. No key needed.
 - **Run live**: paste an OpenRouter key and the same code calls the models in your browser. Replies differ from the recording.
