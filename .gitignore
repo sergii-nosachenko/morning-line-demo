@@ -1,0 +1,14 @@
+# Only the site and the generic tooling are published.
+# Everything else in this folder stays local: the user export, the brief,
+# the API key, the plain data, the passphrase and the working notes.
+/*
+!/.gitignore
+!/README.md
+!/docs/
+!/tools/
+
+# These two read the export and mirror its format, so they stay local too.
+/tools/build_memory.mjs
+/tools/build_cases.mjs
+
+.DS_Store
